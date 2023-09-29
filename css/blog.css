@@ -1,0 +1,30 @@
+.post{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+
+.cards{
+    margin: 5px;
+    display: flex;
+    margin-top: 90px;
+  } 
+
+  .cards-1{
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .cards-2{
+  display: flex;  
+  justify-content: center;
+  align-items: center;
+  margin: 30px;
+  }
+
+  
